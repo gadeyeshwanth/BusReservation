@@ -29,4 +29,4 @@ This is a simple Bus Reservation System built with **Spring Boot**, **Java**, an
 
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/bus-reservation-system.git
+   git clone https://github.com/gadeyeshwanth/BusReservationSystem.git
